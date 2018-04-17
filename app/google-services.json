@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "993480391599",
+    "firebase_url": "https://actividad34serviciosbackend.firebaseio.com",
+    "project_id": "actividad34serviciosbackend",
+    "storage_bucket": "actividad34serviciosbackend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993480391599:android:df3525edf88a4a86",
+        "android_client_info": {
+          "package_name": "com.ittepic.tdm_actividad34serviciosbackend_ivanleobardoestradasalinas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993480391599-f2d89t8k5kbso8tkqa7sh5odenfhfnc0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ittepic.tdm_actividad34serviciosbackend_ivanleobardoestradasalinas",
+            "certificate_hash": "cb9c97c64d43c4b266c27d10f05963f3eec9a595"
+          }
+        },
+        {
+          "client_id": "993480391599-jvvejkeekc53eucaa2u32khl0vfu3nug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtVqLqOb2CG-hCtYzhB3-Fhfpe12TipMs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993480391599-jvvejkeekc53eucaa2u32khl0vfu3nug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
